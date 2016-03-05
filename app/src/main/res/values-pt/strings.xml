@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java - BR</string>
+    <string name="toppings">Sobremesa</string>
+    <string name="whipped_cream">Chantitly</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">Quantidade</string>
+    <string name="order">Comprar</string>
+    <string name="name">Nome</string>
+    <string name="add_whipped_cream">Adicionar Chantily</string>
+    <string name="add_chocolate">Adicionar Chocolate</string>
+    <string name="total">Total</string>
+    <string name="thank_you">Obrigado</string>
+    <string name="email_subject">Just Java BR - Resumod do Pedido</string>
+    <string name="max_quantity">Quantidade Maxima</string>
+    <string name="min_quantity">Quantidade Minima</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+</resources>
